@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1s9MFsdRPXcZudVbRy2WtXQ8wDip9CPsuxjPHCYmw
 - **World Health Organization (WHO):** https://www.who.int/
 
 # WebSite:
-https://samrepository.github.io/Covid-19-Algeria-Dashboard/
+https://samrepository.github.io/Covid-19_Algeria-Dashboard/
 
 **Terms of Use:**
 
