@@ -2,7 +2,7 @@
  This is the data repository and links for the Algeria Coronavirus COVID-19 Dashboard designed and maintained by me. 
 
 # Contact Us: 
-Email:samir.sellami@live.fr
+- Email: samir.sellami@live.fr
 
 # Visual Dashboard:
 https://datastudio.google.com/reporting/ebfabb34-4a74-4822-a2bc-516cfab21fd2
